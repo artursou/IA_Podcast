@@ -1,0 +1,58 @@
+Prompt usado para geração do nome do podcast (Gemini 2.5 Pro):
+ 
+Você é um roteirista de um podcast, e terá que criar um nome para um podcast que tem como tema codificação em react. Quero que me traga nomes criativos para o podcast e tambem deve conter um sub titulo curto para o podcast
+
+
+
+Oque deve ser feito:
+
+- Tente usar no nome e subtitulo referencias na aréa da computação ou de series famosas, como star wars e afins;
+
+- O nome deve ser criativo, abordando trocadilhos no nome.
+
+- O nome deve conter alguma referencia ao tema "React"
+
+
+
+Oque não deve ser feito:
+
+- Não user termos ou nomes em ingles, deve conter apenas termos ou palavras em portugues;
+
+
+Prompt para a geração da imagem do podcast (Gemini 2.5 Pro): 
+
+Agora crie uma imagem para o meu podcast.
+
+
+
+oque deve ser feito:
+
+- A imagem deve conter um jovem rapaz com cabelos pretos, ela deve ter o estudio atrás com uma TV atras do rapaz escrito "De Volta para o Front-End" que é o nome do podcast. O rapaz deve conter um fone de ouvido e com um microfone de estudio na frente dele.
+
+- As cores caracteristicas do estudio devem ser roxo.
+
+
+Prompt do roteiro do podcast (Gemini 2.5 Pro):
+
+Agora você deve criar o roteiro do podcast. Ele deve ser um podcast voltado para a aréa da tecnologia, focado no front-end utilizando o React, o nome do podcast é De Volta para o Front-End, A 1.21 gigawatts de reatividade, ele tem como público alvo iniciantes em front-end.
+O formato do roteiro deve ser: 
+(INTRODUÇÃO)
+(CURIOSIDADE 1)
+(CURIOSIDADE 2)
+(FINALIZAÇÃO)
+
+Oque deve ser feito:
+- No bloco de (INTRODUÇÃO) deve ser feito de uma forma amigavel apresentando o podcast e falando o nome.
+- No bloco de (Curiosidade 1) substitua por alguma curiosidade voltada ao react
+- No bloco de (Curiosidade 2) substitua por alguma curiosidade sobre uma ferramenta font-end
+- No bloco de (Finalização) substitua por uma despedida amigavel "Eu sou o artur e esse foi o De Volta para o Front-End dessa semana"
+- Use apenas termos de facil explicação e entendimento.
+- O podcast deve ser apresentado pelo Artur
+- O podcast deve ser curto
+
+Oque não deve ser feito:
+- Não use muitos termos tecnicos
+-Não ultrapasse 5 minutos de duração 
+
+
+
